@@ -109,3 +109,16 @@ This guide contains all needed knowledge to simplify internship process
 > В открытом окне выбрать из списка необходимую ветку и кликнуть по ней
 > 4. ![](assets/images/git/merge.png)
 > В открытом меню кликнуть на пункт Merge into current
+
+#### Для того чтобы выполнить коммит необходимо:
+> 1. ![](assets/images/git/commit1.png)
+>  Кликнуть на кнопку Commit в верхнем правом углу
+> 2. ![](assets/images/git/commit2.png)
+> В выделеном поле выбрать файлы, которые хотите закомитить
+> 3. ![](assets/images/git/commit3.png)
+> В следующем после написать Commit message
+> 4. Нажать на кнопку Commit
+> 5. Если необходимо сразу запушить изменения можно кликнуть на стрелочку рядом с кнопкой Commit
+> 6. ![](assets/images/git/commit 4.png)
+> В открывшемся меню кликнуть на Commit and Push...
+> 7. 
