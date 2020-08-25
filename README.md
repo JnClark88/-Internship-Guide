@@ -1,6 +1,7 @@
 # -Internship-Guide-
 This guide contains all needed knowledge to simplify internship process
-Main topics:
+
+# [Main topics:](#main-topics)
 * [Git Workflow](#git-workflow)
 * [Board Workflow](#board-workflow)
 
@@ -134,6 +135,8 @@ Main topics:
 > 3. ![](assets/images/git/push1.png)
 > В новом модальном окне кликнуть Push
 
+[Return to the main topics list](#main-topics)
+
 ## [Board Workflow](#board-workflow)
 
 В настоящем проекте вы скорее всего столкнетесь с таким явлением как борда с тасками.
@@ -204,3 +207,5 @@ Main topics:
 >
 >После успешного Код Ревью, и заапрувленого Пулл Реквеста, карточку следует перевести в состояние
 >__Accepted__
+
+[Return to the main topics list](#main-topics)
