@@ -214,8 +214,8 @@ This guide contains all needed knowledge to simplify internship process
 ## [Code Standards](#code-standards)
 
 ### Навигация по теме:
-- [Переменные](#variables)
-- [Функции](#functions)
+- [Переменные](#переменные)
+- [Функции](#функции)
 - [Условные операторы](#conditions)
    
 Ниже будет представлен перечень пунктов которые помогут подготовить код к ревью, 
