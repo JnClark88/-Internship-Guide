@@ -30,6 +30,10 @@ Maintenance or “hotfix” branches are used to quickly patch production releas
 
 ![](https://wac-cdn.atlassian.com/dam/jcr:61ccc620-5249-4338-be66-94d563f2843c/05%20(2).svg?cdnVersion=1196)
 
+###Branch actualization
+
+After completing one or several features and merging them into develop branch you should actualize all your other branches. You can do it by merging or rebasing the actual version of  development branch into your feature branch.
+
 ###Summary
 Some key takeaways to know about Gitflow are:
 
