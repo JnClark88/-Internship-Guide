@@ -119,7 +119,7 @@ This guide contains all needed knowledge to simplify internship process
 > В следующем после написать Commit message
 > 4. Нажать на кнопку Commit
 > 5. Если необходимо сразу запушить изменения можно кликнуть на стрелочку рядом с кнопкой Commit
-> 6. ![](assets/images/git/commit 4.png)
+> 6. ![](assets/images/git/commit4.png)
 > В открывшемся меню кликнуть на Commit and Push...
 > 7. ![](assets/images/git/push1.png)
 > В новом модальном окне кликнуть Push
