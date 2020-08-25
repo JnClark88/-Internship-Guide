@@ -1,5 +1,8 @@
 # -Internship-Guide-
 This guide contains all needed knowledge to simplify internship process
+Main topics:
+* [Git Workflow]()
+* [Board Workflow](#board-workflow)
 
 
 ##Git workflow
@@ -132,7 +135,7 @@ This guide contains all needed knowledge to simplify internship process
 > 3. ![](assets/images/git/push1.png)
 > В новом модальном окне кликнуть Push
 
-## Работа с Бордой
+## [Board Workflow](#board-workflow)
 
 В настоящем проекте вы скорее всего столкнетесь с таким явлением как борда с тасками.
 Она нужна для удобного отслежвания над какой задачей ведется работа. По ходу нашей стажировки
