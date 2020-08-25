@@ -121,4 +121,13 @@ This guide contains all needed knowledge to simplify internship process
 > 5. Если необходимо сразу запушить изменения можно кликнуть на стрелочку рядом с кнопкой Commit
 > 6. ![](assets/images/git/commit 4.png)
 > В открывшемся меню кликнуть на Commit and Push...
-> 7. 
+> 7. ![](assets/images/git/push1.png)
+> В новом модальном окне кликнуть Push
+
+#### Для того чтобы выполнить пуш необходимо:
+> 1. ![](assets/images/git/Screenshot_2.png)
+>   В верхнем меню кликнуть на VCS
+> 2. ![](assets/images/git/push_2.png)
+> В выпадающем меню выбрать git, а затем нажать на Push
+> 3. ![](assets/images/git/push1.png)
+> В новом модальном окне кликнуть Push
