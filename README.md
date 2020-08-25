@@ -1,11 +1,10 @@
 # -Internship-Guide-
 This guide contains all needed knowledge to simplify internship process
 Main topics:
-* [Git Workflow]()
+* [Git Workflow](#git-workflow)
 * [Board Workflow](#board-workflow)
 
-
-##Git workflow
+## [Git workflow](#git-workflow)
 У системы контроля версий(Git) две основных задачи:
 1. Хранить информацию о всех изменениях в вашем коде, начиная с самой первой строчки
 2. Обеспечение удобства командной работы над кодом.
