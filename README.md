@@ -5,6 +5,7 @@ This guide contains all needed knowledge to simplify internship process
 * #### [Git Workflow](#git-workflow)
 * #### [Board Workflow](#board-workflow)
 * #### [Code Standards](#code-standards)
+* #### [Jira](#jira-tracking)
 
 ## [Git workflow](#git-workflow)
 У системы контроля версий(Git) две основных задачи:
@@ -411,3 +412,23 @@ This guide contains all needed knowledge to simplify internship process
 
 https://learn.javascript.ru/coding-style
 ![](assets/images/code-style/codestyle.png)
+
+
+## [Jira](#jira-tracking)
+
+Стажеры должны логировать время каждый день.
+При логировании времени стажер должен подробно описать проделанную за день работу.
+Логирование времени ведется на английском языке.
+
+>Для логирования времени стажеру следует:
+>1. Нажать «More», затем «Log work as user»:
+>![](assets/images/jira/jira-1.jpg)
+>2. Заполнить форму учёта отработанного времени.
+>   1.	Внести количество отработанных часов в поле «Time Spent»;
+>   2.	выбрать дату в поле «Date Started»;
+>   3.	внести подробное описание проделанной работы в поле «Work Description»;
+>   4.	нажать кнопку «Log».
+
+
+Пример формы учёта отработанного времени:
+![](assets/images/jira/jira-2.jpg)
