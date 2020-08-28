@@ -408,3 +408,6 @@ This guide contains all needed knowledge to simplify internship process
         }
         
 #### [Условные операторы](#conditions)
+
+https://learn.javascript.ru/coding-style
+![](assets/images/code-style/codestyle.png)
