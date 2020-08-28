@@ -5,7 +5,7 @@ This guide contains all needed knowledge to simplify internship process
 * [Git Workflow](#git-workflow)
 * [Board Workflow](#board-workflow)
 * [Code Standards](#code-standards)
-* [Jira](#jira-tracking)
+* [Jira](#jira)
 
 ## [Git workflow](#git-workflow)
 У системы контроля версий(Git) две основных задачи:
@@ -414,7 +414,7 @@ https://learn.javascript.ru/coding-style
 ![](assets/images/code-style/codestyle.png)
 
 
-## [Jira](#jira-tracking)
+## Jira
 
 Стажеры должны логировать время каждый день.
 При логировании времени стажер должен подробно описать проделанную за день работу.
