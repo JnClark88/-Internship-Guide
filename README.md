@@ -1,13 +1,13 @@
 # -Internship-Guide-
 This guide contains all needed knowledge to simplify internship process
 
-# [Main topics:](#main-topics)
-* [Git Workflow](#git-workflow)
-* [Board Workflow](#board-workflow)
-* [Code Standards](#code-standards)
-* [Jira](#jira)
+# Main topics:
+- [Git Workflow](#git-workflow)
+- [Board Workflow](#board-workflow)
+- [Code Standards](#code-standards)
+- [Jira](#jira)
 
-## [Git workflow](#git-workflow)
+## Git workflow
 У системы контроля версий(Git) две основных задачи:
 1. Хранить информацию о всех изменениях в вашем коде, начиная с самой первой строчки
 2. Обеспечение удобства командной работы над кодом.
@@ -139,7 +139,7 @@ This guide contains all needed knowledge to simplify internship process
 
 [Return to the main topics list](#main-topics)
 
-## [Board Workflow](#board-workflow)
+## Board Workflow
 
 В настоящем проекте вы скорее всего столкнетесь с таким явлением как борда с тасками.
 Она нужна для удобного отслежвания над какой задачей ведется работа. По ходу нашей стажировки
@@ -212,17 +212,17 @@ This guide contains all needed knowledge to simplify internship process
 
 [Return to the main topics list](#main-topics)
 
-## [Code Standards](#code-standards)
+## Code Standards
 
 ### Навигация по теме:
-- [Переменные](#переменные)
-- [Функции](#функции)
+- [Переменные](#variables)
+- [Функции](#functions)
 - [Условные операторы](#conditions)
    
 Ниже будет представлен перечень пунктов которые помогут подготовить код к ревью, 
 чтобы он соответствовал необходимым стандартам.
 
-#### [Переменные](#variables)
+#### Variables
 >
     Любая переменная должна иметь понятное название, по которому можно судить
     о ее предназначении. Бессмысленных и неочевидных переменных стоит избегать.
@@ -304,7 +304,7 @@ This guide contains all needed knowledge to simplify internship process
     
     return multiplier + divisor;
 
-#### [Функции](#functions)
+#### Functions
 
 Когда нам стоит выносить код в функции:
 
@@ -408,7 +408,7 @@ This guide contains all needed knowledge to simplify internship process
             ...
         }
         
-#### [Условные операторы](#conditions)
+#### Conditions
 
 https://learn.javascript.ru/coding-style
 ![](assets/images/code-style/codestyle.png)
@@ -420,10 +420,10 @@ https://learn.javascript.ru/coding-style
 При логировании времени стажер должен подробно описать проделанную за день работу.
 Логирование времени ведется на английском языке.
 
->Для логирования времени стажеру следует:
->1. Нажать «More», затем «Log work as user»:
->![](assets/images/jira/jira-1.jpg)
->2. Заполнить форму учёта отработанного времени.
+> Для логирования времени стажеру следует:
+> 1. Нажать «More», затем «Log work as user»:
+> ![](assets/images/jira/jira-1.jpg)
+> 2. Заполнить форму учёта отработанного времени.
 >   1.	Внести количество отработанных часов в поле «Time Spent»;
 >   2.	выбрать дату в поле «Date Started»;
 >   3.	внести подробное описание проделанной работы в поле «Work Description»;
