@@ -2,10 +2,10 @@
 This guide contains all needed knowledge to simplify internship process
 
 # [Main topics:](#main-topics)
-* #### [Git Workflow](#git-workflow)
-* #### [Board Workflow](#board-workflow)
-* #### [Code Standards](#code-standards)
-* #### [Jira](#jira-tracking)
+* [Git Workflow](#git-workflow)
+* [Board Workflow](#board-workflow)
+* [Code Standards](#code-standards)
+* [Jira](#jira-tracking)
 
 ## [Git workflow](#git-workflow)
 У системы контроля версий(Git) две основных задачи:
