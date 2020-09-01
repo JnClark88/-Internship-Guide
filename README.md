@@ -6,6 +6,7 @@ This guide contains all needed knowledge to simplify internship process
 - [Board Workflow](#board-workflow)
 - [Code Standards](#code-standards)
 - [Jira](#jira)
+- [Debugging](#debugging)
 
 ## Git workflow
 У системы контроля версий(Git) две основных задачи:
@@ -432,3 +433,11 @@ https://learn.javascript.ru/coding-style
 
 Пример формы учёта отработанного времени:
 ![](assets/images/jira/jira-2.jpg)
+
+## Debugging
+
+Отладка – это процесс поиска и исправления ошибок в скрипте. Все современные браузеры и большинство других сред разработки поддерживают инструменты для отладки – специальный графический интерфейс, который сильно упрощает отладку. Он также позволяет по шагам отследить, что именно происходит в нашем коде.
+
+Мы будем использовать браузер Chrome, так как у него достаточно возможностей, в большинстве других браузеров процесс будет схожим.
+
+https://learn.javascript.ru/debugging-chrome
