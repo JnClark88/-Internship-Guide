@@ -7,6 +7,8 @@ This guide contains all needed knowledge to simplify internship process
 - [Code Standards](#code-standards)
 - [Jira](#jira)
 - [Debugging](#debugging)
+- [GithubPages](#githubpages)
+
 
 ## Git workflow
 У системы контроля версий(Git) две основных задачи:
@@ -441,3 +443,27 @@ https://learn.javascript.ru/coding-style
 Мы будем использовать браузер Chrome, так как у него достаточно возможностей, в большинстве других браузеров процесс будет схожим.
 
 https://learn.javascript.ru/debugging-chrome
+
+## GithubPages
+
+Самое время переключиться на GitHub Pages. Зайдите в свой GitHub-репозиторий и нажмите Settings.
+> ![](assets/images/github-pages/git1.png)
+>
+Прокрутите до GitHub pages. Здесь вы увидите следующее:
+
+> ![](assets/images/github-pages/git2.png)
+
+Теперь в выпадающем меню Source выберите master branch или master branch/docs folder. 
+Разница вот в чем: если вы будете размещать проект из папки docs, то эта папка (docs) обязательно должна присутствовать в ветке master, 
+из которой запускается сайт!
+
+> ![](assets/images/github-pages/git3.png)
+
+Далее следует уведомление, что сайт готов к размещению.
+
+> ![](assets/images/github-pages/git4.png)
+>
+Проявите терпение. Подождите минуту-другую, а затем обновите страницу или попробуйте открыть нужную вам ссылку. 
+Как только сайт будет размещен, вы увидите следующее:
+
+> ![](assets/images/github-pages/git5.png)
