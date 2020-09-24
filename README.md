@@ -8,6 +8,7 @@ This guide contains all needed knowledge to simplify internship process
 - [Jira](#jira)
 - [Debugging](#debugging)
 - [GithubPages](#githubpages)
+- [GithubPages Angular](#githubpages-angular)
 
 
 ## Git workflow
@@ -467,3 +468,29 @@ https://learn.javascript.ru/debugging-chrome
 Как только сайт будет размещен, вы увидите следующее:
 
 > ![](assets/images/github-pages/git5.png)
+
+
+## GithubPages Angular
+
+Пришло время загрузить свой Angular проект на Github Pages
+
+
+###Порядок действий:
+1. После того как вы полностью сделали свой проект создайте новую ветку в локальном репозитории командой<br> 
+```git checkout -b gh-pages```
+2. В терминале/терминале IDE  пропишите команду<br> 
+```npm install -g angular-cli-ghpages```
+3. Подождите пока установится пакет для работы с gh pages
+4. Откройте проект, который хотите залить на GH Pages и пропишите команду <br> ```ng build --prod --base-href https://[username].github.io/[repo]/``` <br>
+[username] - ваш username на GitHub, [repo] - название репозитория вашего проекта на GitHub <br>
+(при указании этих параметров не нужно писать [ ])
+5. Подождите пока пройдет build проекта и пропишите команду<br>
+ ```ngh --dir=dist/[project-name]``` <br>
+ [project-name] - название вашего ЛОКАЛЬНОГО проекта<br>
+ (при указании параметра не нужно писать [ ])
+6. Отлично, теперь в вашем репозитории на GitHub появилась ветка gh-pages, которая уже привязана<br>
+к самому GitHub Pages. Ваш singlePageApp доступен по адресу, который вы указали в пункте 4
+
+
+Пушить ветку в репозиторий на GitHub не нужно, она автоматически будет доступна после этих команд.<br>
+Source:  https://medium.com/code-sketch/how-to-deploy-an-angular-7-app-to-github-pages-9427b609645f
